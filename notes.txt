@@ -1,0 +1,5 @@
+https://service.iris.edu/fdsnws/dataselect/1/
+https://www.earthquakescanada.nrcan.gc.ca/stndon/wf-fo/index-en.php
+https://www.pnsn.org/seismograms/map
+https://www.iris.edu/app/station_monitor/#Today/II-FFC/map/
+
